@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/node-test.iml" filepath="$PROJECT_DIR$/.idea/node-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-crud/.idea/react-crud.iml" filepath="$PROJECT_DIR$/../react-crud/.idea/react-crud.iml" />
+    </modules>
+  </component>
+</project>
